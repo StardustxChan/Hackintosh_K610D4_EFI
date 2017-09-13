@@ -461,18 +461,6 @@
 			</dict>
 		</array>
 	</dict>
-	<key>RtVariables</key>
-	<dict>
-		<key>BooterConfig</key>
-		<string>0x28</string>
-		<key>CsrActiveConfig</key>
-		<string>0x3</string>
-		<key>MLB</key>
-		<string>C02518404CUGDQP1M</string>
-		<key>ROM</key>
-		<string>0cbc9fd6221c</string>
-	</dict>
-	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
